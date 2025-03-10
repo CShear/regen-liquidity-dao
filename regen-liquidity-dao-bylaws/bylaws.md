@@ -1,10 +1,10 @@
-# NOUNS DAO DUNA BYLAWS v1.0
+# REGEN LIQUIDITY DAO BYLAWS v0.1
 
 ## ARTICLE I
 
 ### CORPORATE AUTHORITY AND GOVERNING PRINCIPLES
 
-**Section 1.1. Name.** The name of the Wyoming Decentralized Unincorporated Nonprofit Association is “Nouns DAO” (the “<ins>DAO</ins>”).
+**Section 1.1. Name.** The name of the Wyoming Decentralized Unincorporated Nonprofit Association (DUNA) is “REGEN LIQUIDITY DAO” (the “<ins>DAO</ins>”).
 
 **Section 1.2.  General.**  The purposes for which the DAO is organized are to exclusively promote and carry on any purposes and activities for which a Wyoming Decentralized Unincorporated Nonprofit Association (a “<ins>DUNA</ins>”) may be organized and operated under the Wyoming Decentralized Unincorporated Nonprofit Association Act (the “<ins>Act</ins>”).
 
@@ -15,13 +15,16 @@
 
 | Name | Address |
 | ----------- | ----------------------------------------- |
-| Nouns Token | [0x9c8ff314c9bc7f6e59a9d9225fb22946427edc03](https://etherscan.io/address/0x9c8ff314c9bc7f6e59a9d9225fb22946427edc03)|
-| Governor |[0x6f3e6272a167e8accb32072d08e0957f9c79223d](https://etherscan.io/address/0x6f3e6272a167e8accb32072d08e0957f9c79223d) |
-| Treasury |[0xb1a32FC9F9D8b2cf86C068Cae13108809547ef71](https://etherscan.io/address/0xb1a32FC9F9D8b2cf86C068Cae13108809547ef71) |
-| Old Treasury |[0x0BC3807Ec262cB779b38D65b38158acC3bfedE10](https://etherscan.io/address/0x0BC3807Ec262cB779b38D65b38158acC3bfedE10) |
-| Auction House |[0x830bd73e4184cef73443c15111a1df14e495c706](https://etherscan.io/address/0x830bd73e4184cef73443c15111a1df14e495c706) |
-| Data |[0xf790A5f59678dd733fb3De93493A91f472ca1365](https://etherscan.io/address/0xf790A5f59678dd733fb3De93493A91f472ca1365#readProxyContract) |
-
+| LPDAO Token | (not yet established, may or may not get established)
+| Governor | (not yet established, may or may not get established) |
+| Treasury |(not yet established, may or may not get established) |
+| Old Treasury |
+* REGEN - [regen1vpxm32hark2kh4l6jcrn2c40pwgzw40jnzpjs3](https://www.mintscan.io/regen/address/regen1vpxm32hark2kh4l6jcrn2c40pwgzw40jnzpjs3/)
+* Cosmos Hub - [cosmos1vpxm32hark2kh4l6jcrn2c40pwgzw40jvq2wx4](https://www.mintscan.io/cosmos/address/cosmos1vpxm32hark2kh4l6jcrn2c40pwgzw40jvq2wx4)
+* Osmosis - [osmo1vpxm32hark2kh4l6jcrn2c40pwgzw40jyme7s8](https://www.mintscan.io/osmosis/address/osmo1vpxm32hark2kh4l6jcrn2c40pwgzw40jyme7s8)
+* Ethereum + all L2s - [0xBa04EAb4Fe20EA102fD5cbAB1391b959A358D7A0](https://etherscan.io/address/0xBa04EAb4Fe20EA102fD5cbAB1391b959A358D7A0)
+* Base - [0xBa04EAb4Fe20EA102fD5cbAB1391b959A358D7A0](https://basescan.org/address/0xBa04EAb4Fe20EA102fD5cbAB1391b959A358D7A0)
+| ----------- | ----------------------------------------- |
 
   *  * <ins>iii</ins> and these bylaws (the “<ins>Bylaws</ins>”, and collectively with the Act and the Code, the “<ins>Governing Principles</ins>”). 
 
